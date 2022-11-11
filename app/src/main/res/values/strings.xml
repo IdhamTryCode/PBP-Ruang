@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Data Ruang</string>
+    <string name="kapasitas">Kapasitas:</string>
+    <string name="data_ruangan">Data Ruang Kelas</string>
+    <string name="data_gedung">Data Gedung</string>
+</resources>
